@@ -410,7 +410,6 @@ class CarnetAdresse:
 
 if __name__ == '__main__':
     #création appliS
-    #création appliS
 
     root = tk.Tk()
     app = CarnetAdresse(root)
