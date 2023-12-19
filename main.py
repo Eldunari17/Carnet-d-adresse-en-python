@@ -409,6 +409,8 @@ class CarnetAdresse:
         
 
 if __name__ == '__main__':
+    #création appli
     root = tk.Tk()
     app = CarnetAdresse(root)
     root.mainloop()
+ 
